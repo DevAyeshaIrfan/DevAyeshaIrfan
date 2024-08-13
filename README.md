@@ -43,13 +43,6 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DevAyeshaIrfan&theme=dark&border_radius=5&mode=weekly" alt="DevAyeshaIrfan" /></p>
 
-<br>
-<p align="center">
-<a href="https://github.com/DevAyeshaIrfan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevAyeshaIrfan&layout=compact&langs_count=8&theme=omni"/>
-</a>
-</p>
-
 
 </body>
 </html>

@@ -15,7 +15,6 @@ Computer Science Student @ FAST-NUCES | AI/ML & Software Development
 - 🧠 Interested in **LLMs, RAG systems, intelligent applications, and practical AI**
 - 🛠️ I learn best by **building projects and experimenting with new technologies**
 - 🌱 Currently strengthening my skills in **AI/ML, Python, and modern software development**
-- 🍰 Outside of tech, I enjoy **baking and experimenting with new recipes**
 - 📫 Reach me at **ayirfan33301@gmail.com**
 
 <br clear="right"/>
@@ -119,14 +118,7 @@ A **full-stack food ordering and delivery management system** with restaurant ma
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAyeshaIrfan&layout=compact&theme=transparent&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
 
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55">
